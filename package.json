@@ -1,5 +1,5 @@
 {
-    "name": "co-defy-video-interface",
+    "name": "@jonathanlyon/co-defy-video-interface",
     "version": "1.0.1",
     "description": "An interface to select and display a YouTube video by ID in Directus",
     "license": "MIT",
@@ -7,7 +7,7 @@
     "contributors": [
       {
         "name": "Jonathan Lyon",
-        "email": "jonathan@co-defy.co
+        "email": "jonathan@co-defy.co"
       }
     ],
     "icon": "smart_display",
